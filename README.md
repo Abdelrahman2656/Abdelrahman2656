@@ -89,6 +89,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript" style="margin: 10px;"/>
   </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mongoose" height="48" alt="Mongoose" style="margin: 10px;"/>
+</a>
+
 </div>
 
 <br/>
