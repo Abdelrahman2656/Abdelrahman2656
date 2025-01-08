@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;I'm+Abdelrahman+Elmonged;I'm+BackEnd+Node.js+Developer" />
@@ -17,83 +17,95 @@
   </a>
 </div>
 
-<hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<div align="center" width="100">
 
-<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  - <b>Languages</b>:
+</p>
 
-<div align="center"> 
-  <!-- Row 1 -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cplusplus" height="48" alt="C++" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" style="margin: 10px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" style="margin: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" style="margin: 10px;"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" style="margin: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" style="margin: 10px;"/>
-  </a>
 
-  <!-- Row 2 -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS" style="margin: 10px;"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" style="margin: 10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" style="margin: 10px;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" style="margin: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" style="margin: 10px;"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" height="48" alt="Sass" style="margin: 10px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript" style="margin: 10px;"/>
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mongoose" height="48" alt="Mongoose" style="margin: 10px;"/>
-</a>
+  
+  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript%20-%232F72B8.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![OOP](https://img.shields.io/badge/OOP%20-%232F72B8.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+<p align="center">
+  - <b>Database</b>:
+</p>
+
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<p align="center">
+  - <b>Backend</b>:
+</p>
+
+
+  ![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL%20-%236746A9.svg?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+   ![Mongoose](https://img.shields.io/badge/Mongoose%20-%2347A248.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js%20-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+
+<p align="center">
+  - <b>Software</b>:
+</p>
+
+
+  ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+
+
+<p align="center">
+  - <b>Cloud</b>:
+</p>
+
+
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary%20-%2395D5D5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+<p align="center">
+  - <b>IDE</b>:
+</p>
+
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<p align="center">
+  - <b>Package Manager</b>:
+</p>
+
+  ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+<p align="center">
+  - <b>Version Control</b>:
+</p>
+
+  ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub%20-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  - <b>Productivity</b>:
+</p>
+
+  ![Notion](https://img.shields.io/badge/Notion%20-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+</div>
 
 </div>
 
-<br/>
-
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:4B0082,50:8A2BE2,100:DDA0DD&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
+</div>
