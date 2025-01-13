@@ -46,7 +46,7 @@
 
   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL%20-%23476DB1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <p align="center">
   - <b>Backend</b>:
@@ -59,6 +59,7 @@
   ![Socket.io](https://img.shields.io/badge/Socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
    ![Mongoose](https://img.shields.io/badge/Mongoose%20-%2347A248.svg?style=for-the-badge&logo=mongoose&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js%20-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+   ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
 <p align="center">
